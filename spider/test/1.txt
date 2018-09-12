@@ -1,0 +1,6 @@
+´íÎó3
+´íÎó1
+´íÎó2 /Administrator/PycharmProjects/spider/test/test1.py
+\spider\venv\Scripts\python.exe
+´íÎó4
+´íÎó3
